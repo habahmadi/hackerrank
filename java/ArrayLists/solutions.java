@@ -1,4 +1,4 @@
-package Java.Arraylist;
+package Java.ArrayLists;
 
 import java.util.ArrayList;
 import java.util.Scanner;
